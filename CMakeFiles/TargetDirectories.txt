@@ -1,0 +1,4 @@
+/home/wsy/ospp/test/CMakeFiles/edit_cache.dir
+/home/wsy/ospp/test/CMakeFiles/rebuild_cache.dir
+/home/wsy/ospp/test/CMakeFiles/multipb.dir
+/home/wsy/ospp/test/CMakeFiles/pb.dir

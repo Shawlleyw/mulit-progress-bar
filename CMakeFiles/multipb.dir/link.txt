@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/multipb.dir/multipb.c.o -o multipb  -lpthread 
